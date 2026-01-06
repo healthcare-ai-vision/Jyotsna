@@ -4,7 +4,7 @@ AI-Vision in Healthcare
 ## Overview
 This project aims to employ yolov8 model, for image classification on skin carcinoma, for the purpose of distinguishing b/w Carcinoma stages , thus serving as a useful tool in medical diagnosis.
 * Yolov8 model was trained on medical imaging data , so that it can classify b/w Melanoma and Basal Cell Carcinoma states. Dataset was loaded from robflow
-* Two natural images were obtained on which annotation was performed (edge detection,scaling, noising/denoising etc) to make them raedy for training purpose
+* Two natural images were obtained on which annotation was performed (edge detection,scaling, noising/denoising etc) to make them ready for training purpose
 * Ideas about computer vision and how image processing enables creation of suitable dataset for the purpose of training were explored.
 
 ## Resources
